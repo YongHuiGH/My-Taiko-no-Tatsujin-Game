@@ -1,0 +1,11 @@
+{
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.rulers": [80, 120],
+        "analysis.exclude": ["**/*.g.dart"]
+    },
+    "dart.lineLength": 80,
+    "dart.flutterSdkPath": null,
+    "dart.enableSdkFormatter": true
+}
